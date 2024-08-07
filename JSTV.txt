@@ -137,3 +137,4 @@ CCTV4K超高清,http://223.110.240.208:6610/gitv/live1/G_CCTV-4K-HD/G_CCTV-4K-HD
 纯享,http://ott.mobaibox.com/TVOD/3/224/3221227506/index.m3u8
 4K修复,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
